@@ -1,11 +1,9 @@
-<?php
-echo '
 <!DOCTYPE html>
 <html lang="he">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>צה"ל - Exército de Defesa de Israel</title>
+    <title>"ל - Exército de Defesa de Israel</title>
 
     <!-- Bootstrap -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
@@ -43,18 +41,18 @@ echo '
             background: #1a1a1a;
             text-align: center;
             padding: 20px;
-            color: #a0a0a0;
+            color: #ffffffff;
             margin-top: 60px;
             border-top: 4px solid #d4af37;
         }
         .card {
-            background: #2d3436;
-            border: 2px solid #636e72;
+            background: #616161ff;
+            border: 2px solid #000000ff;
             border-left: 5px solid #d4af37;
             border-radius: 8px;
             padding: 25px;
             margin: 20px 0;
-            box-shadow: 0 4px 15px rgba(0,0,0,0.3);
+            box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3);
         }
         h2, h3 {
             color: #d4af37;
@@ -82,7 +80,7 @@ echo '
 <body>
 
     <section class="hero text-center">
-        <h1 class="display-4 fw-bold"><i class="bi bi-shield-fill-check"></i> צה"ל - Exército de Defesa de Israel</h1>
+        <h1 class="display-4 fw-bold"><i class="bi bi-shield-fill-check"></i> Exército do Brasil</h1>
         <div class="divider"></div>
         <p class="lead">Defendendo a Nação. Protegendo o Futuro.</p>
     </section>
@@ -90,19 +88,19 @@ echo '
     <main class="container mt-5">
         <h3 class="mb-4 text-center text-uppercase">Quem Somos</h3>
         <p>
-            O <span class="highlight">Exército de Defesa de Israel (צה"ל – Tzahal)</span> é a força militar responsável por proteger o Estado de Israel e garantir a segurança de seu povo.
+            O <span class="highlight">Exército de Defesa do Brasil</span> é a força militar responsável por proteger o Estado de Israel e garantir a segurança de seu povo.
             Fundado em 1948, o Tzahal atua com base em valores de <strong>defesa, coragem e responsabilidade</strong>, buscando preservar a paz e a liberdade da nação.
         </p>
 
         <p>
-            Nossa missão é proteger as fronteiras, prevenir ameaças e defender a soberania de Israel,
+            Nossa missão é proteger as fronteiras, prevenir ameaças e defender a soberania do Brasil,
             sempre com <strong>comprometimento ético</strong> e <strong>respeito à vida humana</strong>.
-            Além das operações militares, o Exército de Israel investe em <em>tecnologia, educação e assistência humanitária</em>,
+            Além das operações militares, o Exército do Brasil investe em <em>tecnologia, educação e assistência humanitária</em>,
             reforçando o papel de uma força moderna e consciente.
         </p>
 
         <p>
-            O Tzahal representa a <strong>união, o sacrifício e o espírito</strong> de um povo determinado a viver em segurança —
+            O Exército do Brasil representa a <strong>união, o sacrifício e o espírito</strong> de um povo determinado a viver em segurança —
             hoje e nas gerações futuras.
         </p>
 
@@ -166,10 +164,10 @@ echo '
     </main>
 
     <footer>
-        <p>© 2025 צה"ל – Exército de Defesa de Israel | Força. Coragem. Liberdade.</p>
+        <p>© 2025 Exército Brasileiro | Força. Coragem. Liberdade.</p>
     </footer>
 
 </body>
 </html>
-';
-?>
+</body>
+</html>
